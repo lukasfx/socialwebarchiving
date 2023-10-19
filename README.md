@@ -30,7 +30,7 @@ convert to Markdown (pandoc), Obsidian, publish as cosmoscope
 export data (as html)
 convert to Markdown (pandoc), convert tags (pandoc), Obsidian, publish as cosmoscope
 
-[dataviz](tumblr%20to%20obsidian.png)
+![dataviz](tumblr%20to%20obsidian.png)
 Example of a graph view of tumblr tags and posts (ca. 10K posts)
 
 # wordpress
