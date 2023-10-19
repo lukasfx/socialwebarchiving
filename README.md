@@ -31,7 +31,7 @@ export data (as html)
 convert to Markdown (pandoc), convert tags (pandoc), Obsidian, publish as cosmoscope
 
 ![dataviz](tumblr%20to%20obsidian.png)
-Example of a graph view of tumblr tags and posts (ca. 10K posts)
+Example of a graph view of tumblr tags and posts (ca. 10K posts, tags in green, posts in grey)
 
 # wordpress
 more options through plugins
