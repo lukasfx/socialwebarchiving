@@ -8,29 +8,39 @@ Two main strands of research can be identified:
 The webarchiving route:
 
 Mirror: Re-publishing the website data
+
 Archiving: Scraping with webrecorder, browsertrix, HTTrack, see https://zenodo.org/records/7886843
+
 Publishing: Replaying the webrecorder archives, as in the wayback machine.
 
 The personal knowledge management route:
 
 Archiving: Downloading by the users themselves, via GDPR requests
+
 Publishing:
+
 File-based approaches, e.g. converting the downloaded html files to markdown and publishing as a knowledge base.
+
 Visualization approaches, see https://zenodo.org/records/8143785
 
 ## examples
 
 # instagram
 Export data as html.
+
 Then various approaches:
+
 Umap, see https://zenodo.org/records/8143785 publish as pix-plot
+
 convert to Markdown (pandoc), Obsidian, publish as cosmoscope (cosmoscope is a html one pager graph visualisation, through this Obsidian Plugin: https://forum.obsidian.md/t/share-the-graph-view-and-notes-as-html-page-for-free-with-obsidian2cosma/51070 )
 
 # tumblr
 export data (as html)
+
 convert to Markdown (pandoc), convert tags (pandoc), Obsidian, publish as cosmoscope (see above)
 
 ![dataviz](tumblr%20to%20obsidian.png)
+
 Example of a graph view of tumblr tags and posts (ca. 10K posts, tags in green, posts in grey)
 
 # wordpress
