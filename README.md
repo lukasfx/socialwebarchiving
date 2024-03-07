@@ -1,5 +1,5 @@
 # archiving the social web
-Assembling approaches to archiving the social web (platforms, feeds) and working with these archives (research and re-publishing).
+Experimental approaches to archiving the social web (platforms, feeds) and working with these archives (research and re-publishing).
 
 This is research towards a toolbox and workflows, in the context of my participation in the Art Doc Archive prototype https://art-doc-archive.net/ and comparing existing techniques both from research projects like https://archivesunleashed.org/arch/, as well as the toolsets coming from the PKM (personal knowledge management) scene (like obsidian and zettlr), and connecting this to the open source development happening around the open social web (bridges, apps and plugins related to the fediverse, matrix, deltachat, bluesky and nostr, etc.).
 
@@ -24,11 +24,11 @@ Visualization approaches, see https://zenodo.org/records/8143785
 Export data as html.
 Then various approaches:
 Umap, see https://zenodo.org/records/8143785 publish as pix-plot
-convert to Markdown (pandoc), Obsidian, publish as cosmoscope
+convert to Markdown (pandoc), Obsidian, publish as cosmoscope (cosmoscope is a html one pager graph visualisation, through this Obsidian Plugin: https://forum.obsidian.md/t/share-the-graph-view-and-notes-as-html-page-for-free-with-obsidian2cosma/51070 )
 
 # tumblr
 export data (as html)
-convert to Markdown (pandoc), convert tags (pandoc), Obsidian, publish as cosmoscope
+convert to Markdown (pandoc), convert tags (pandoc), Obsidian, publish as cosmoscope (see above)
 
 ![dataviz](tumblr%20to%20obsidian.png)
 Example of a graph view of tumblr tags and posts (ca. 10K posts, tags in green, posts in grey)
