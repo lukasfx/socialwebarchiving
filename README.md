@@ -32,7 +32,7 @@ Then various approaches:
 
 Umap, see https://zenodo.org/records/8143785 publish as pix-plot
 
-convert to Markdown (pandoc), Obsidian, publish as cosmoscope (cosmoscope is a html one pager graph visualisation, through this Obsidian Plugin: https://forum.obsidian.md/t/share-the-graph-view-and-notes-as-html-page-for-free-with-obsidian2cosma/51070 )
+convert to Markdown (pandoc), Obsidian, publish as cosmoscope (Cosmoscope is a html one pager graph visualisation connected to the app Cosma, through this Obsidian Plugin: https://forum.obsidian.md/t/share-the-graph-view-and-notes-as-html-page-for-free-with-obsidian2cosma/51070 https://github.com/kevinpolisano/obsidian2cosma and this fork https://github.com/uuanqin/obsidian2cosma)
 
 # tumblr
 export data (as html)
